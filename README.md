@@ -31,15 +31,3 @@ This is a **Movie Recommendation System** built using **Streamlit**, **Pandas**,
    ```
 2. Open your browser and go to the URL displayed in the terminal (default: `http://localhost:8501`).
 3. Select a movie from the dropdown and click "Recommend" to view recommendations.
-
-## Output Example
-
-<img src="https://github.com/SimpleCyber/Movie-Recommendation-system/blob/main/output.png" alt="Output Example" width="800">
-
-## API Key
-Make sure to replace the TMDb API key (`1f4efd04a20fb47cd4021f041fac3679`) with your own key in the `ferch_poster` function for uninterrupted functionality.
-
-## Contributing
-Feel free to fork the repository and submit pull requests for any improvements.
-
----
